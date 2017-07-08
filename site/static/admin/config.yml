@@ -1,4 +1,4 @@
 backend:
-          name: github
-            repo: raheems/statsml # Path to your Github repository
-              branch: master # Branch to update
+	name: github
+	repo: raheems/statsml 
+	branch: master 

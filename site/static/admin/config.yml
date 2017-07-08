@@ -1,4 +1,5 @@
 backend:
   name: github
   repo: raheems/statsml
-  branch: master 
+  branch: master
+  publish_mode: editorial_workflow
